@@ -1,4 +1,4 @@
-# 💻 IT Help Desk Ticketing System Lab – Spiceworks
+# 💻 IT Help Desk Ticketing System project – Spiceworks
 
 ## 📌 Project Overview
 This project simulates a real-world IT Help Desk environment using **Spiceworks Help Desk**. The goal was to practice handling support tickets from creation to resolution, similar to what an entry-level IT Support or Help Desk Technician would do.
@@ -131,7 +131,7 @@ The following types of tickets were created and resolved during this lab:
 ---
 
 ## 🏁 Conclusion
-This project gave me hands-on experience with a help desk ticketing system and helped me understand real-world IT support workflows. Although I do not yet have formal IT job experience, this lab demonstrates my ability to simulate and document help desk tasks effectively.
+This project gave me hands-on experience with a help desk ticketing system and helped me understand real-world IT support workflows. Although I do not yet have formal IT job experience, this project demonstrates my ability to simulate and document help desk tasks effectively.
 
 I am continuing to build my IT skills through labs and projects like this as I prepare for an entry-level Help Desk role.
 

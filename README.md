@@ -118,7 +118,7 @@ The following types of tickets were created and resolved during this lab:
 ![image alt](https://github.com/jaylenbrinsontech/Help-desk---ticket-system-project-/blob/d62d75cc018847c12f7baa477a5114f11d108c2a/Screenshot%20(67).png)
 
 ### ✅ Resolved Ticket
-![Resolved Ticket](screenshots/resolved-ticket.png)
+![image alt](https://github.com/jaylenbrinsontech/Help-desk---ticket-system-project-/blob/c0b94d5de7ec39d09719c5d2f99b0eebee4516f6/Screenshot%20(72).png)
 
 ---
 
